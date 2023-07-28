@@ -22,7 +22,7 @@
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 ## :book: Guestbook</h2>
-<p>Leave a cool message for me or just say you passed by <a href="https://github.com/thenomaniqbal/thenomaniqbal/issues/new?template=guestbook-entry.md">here</a>!</p>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/ThienObito/ThienObito/issues/new?template=guestbook-entry.md">here</a>!</p>
 
 <div align="center">
 	<a href="https://git.io/typing-svg">
