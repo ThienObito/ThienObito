@@ -1,12 +1,3 @@
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi+%2C+I'm+Tobi19;Java+%2C+Python+%2C+C;Always+learning+new+things)](https://git.io/typing-svg)
