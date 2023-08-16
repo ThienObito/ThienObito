@@ -38,10 +38,10 @@ jobs:
       - run: git status
 
       # Push the changes
-      - name: Push changes
+      - name: Tobisetup
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.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 }}
           branch: master
           force: true
 
@@ -51,4 +51,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
