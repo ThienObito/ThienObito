@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi+%2C+I'm+Tobi19;Java+%2C+Python+%2C+C;Always+learning+new+things)](https://git.io/typing-svg)
 
 
+![hehehe](https://github.com/ThienObito/ThienObito/assets/93480106/187a45ef-c2a6-44bd-8609-e5da00e7fd2e)
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
