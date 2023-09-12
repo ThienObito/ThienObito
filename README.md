@@ -20,6 +20,8 @@ Folowers | Like | Vps | Suport Account Hacked
 
 
 
+![c9550fecdb7dc0ae7ca081ab1c784566](https://github.com/ThienObito/ThienObito/assets/93480106/32db6a2c-1b0c-4207-80df-821974274b43)
+![about-me (1)](https://github.com/ThienObito/ThienObito/assets/93480106/5f325cbc-2629-4742-8093-f157dcdb8271)
 
 
 
