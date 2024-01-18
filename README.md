@@ -22,11 +22,6 @@ Folowers | Like | Vps | Suport Account Hacked
 
 
 
-![c9550fecdb7dc0ae7ca081ab1c784566](https://github.com/ThienObito/ThienObito/assets/93480106/32db6a2c-1b0c-4207-80df-821974274b43)
-
-
-
-
 <div align="center">
 	<a href="https://git.io/typing-svg">
 		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
