@@ -11,10 +11,10 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xaYr8ANs) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/quangthien.profile) 
 
 ![fbi agent  - f i f t h t e e n](https://github.com/ThienObito/ThienObito/assets/93480106/48bdfb07-d8c4-41a2-93cd-544be9a2ef0d)
-# 🔒 Suport Social
+# 🔒 Support Social
 # Web Site : ##############
 Sell Tool Facebook - Tiktok - Instagram - Telegram
-Folowers | Like | Vps | Suport Account Hacked 
+Folowers | Like | Vps | Support Account Hacked 
 
 
 # 💻 Tech Stack
