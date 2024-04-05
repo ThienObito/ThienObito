@@ -1,0 +1,23 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Chạy mỗi ngày lúc nửa đêm
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate Snake Game
+        uses: platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Commit and push if changed
+        run: |
+          git add .
+          git diff --staged --quiet || (git commit -m "Generate Snake Game" && git push)
